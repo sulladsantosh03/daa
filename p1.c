@@ -43,3 +43,20 @@ main()
       printf("\nThe run time is %f\n",clk);
  
 }
+
+/*
+Enter the number of cities: 5
+	Enter the matrix representation:
+            0 1 1 1 0
+0 0 0 0 1
+0 0 0 0 0 
+0 0 0 0 0  
+0 0 0 0 0 
+
+Enter the source city:  0
+The BFS traversal is:
+01
+02
+03
+14
+*/
